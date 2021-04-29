@@ -6,6 +6,8 @@
 
 [![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max&hide=contribs)](https://github.com/phanindra-max/github-readme-stats)
 
+![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max&show_icons=true)
+
 
 <!---
 phanindra-max/phanindra-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
