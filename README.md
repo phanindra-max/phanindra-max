@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phanindra-max
 - 👀 I’m interested in Web Development, Data Science and Machine Learning
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Web applications
+- 💞️ I’m looking to collaborate on Data Science related projects
 - 📫 How to reach me https://t.me/Phanindra_Kumar_Kalaga (Telegram)
 
 [![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max)](https://github.com/phanindra-max/github-readme-stats)
