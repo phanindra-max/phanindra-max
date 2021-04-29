@@ -5,7 +5,7 @@
 - 📫 How to reach me https://t.me/Phanindra_Kumar_Kalaga (Telegram)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient)
+![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max&show_icons=true&theme=nightowl)
 
 
 
