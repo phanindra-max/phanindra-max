@@ -5,17 +5,9 @@
 - 📫 How to reach me https://t.me/Phanindra_Kumar_Kalaga (Telegram)
 
 
-![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-max&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient)
 
 
-![Phanindra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phanindra-max)
-
-
-<!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-max)
----!>
 
 <!---
 phanindra-max/phanindra-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
