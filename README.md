@@ -7,7 +7,10 @@
 
 ![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max&show_icons=true&count_private=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-max&layout=compact)
+
+
+![Phanindra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phanindra-max)
 
 
 <!---
