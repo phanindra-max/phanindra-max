@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on Data Science related projects
 - 📫 How to reach me https://t.me/Phanindra_Kumar_Kalaga (Telegram)
 
-[![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max&hide=contribs)](https://github.com/phanindra-max/github-readme-stats)
-
 ![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max&show_icons=true)
 
 
