@@ -6,7 +6,7 @@
 
 [![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max)](https://github.com/phanindra-max/github-readme-stats)
 
-![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max&show_icons=true)
+[![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max&show_icons=true)](https://github.com/phanindra-max/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-max)](https://github.com/phanindra-max/github-readme-stats)
 
