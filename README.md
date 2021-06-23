@@ -9,7 +9,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-max)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phanindra_max)
+![Phanindra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phanindra_max)
+
 
 <!---
 phanindra-max/phanindra-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
