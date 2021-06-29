@@ -9,9 +9,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-max)
 
-![Phanindra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phanindra_max)
+<!-- ![Phanindra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phanindra_max)
 
-[![wakatime](https://wakatime.com/badge/github/phanindra-max/T-WeatherAI.svg)](https://wakatime.com/badge/github/phanindra-max/T-WeatherAI)
+[![wakatime](https://wakatime.com/badge/github/phanindra-max/T-WeatherAI.svg)](https://wakatime.com/badge/github/phanindra-max/T-WeatherAI) -->
 
 [![wakatime](https://wakatime.com/badge/github/ishtiaqSamdani/DriveSales_-intern.svg)](https://wakatime.com/badge/github/ishtiaqSamdani/DriveSales_-intern)
 
