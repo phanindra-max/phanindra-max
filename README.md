@@ -13,6 +13,8 @@
 
 [![wakatime](https://wakatime.com/badge/github/phanindra-max/T-WeatherAI.svg)](https://wakatime.com/badge/github/phanindra-max/T-WeatherAI)
 
+[![wakatime](https://wakatime.com/badge/github/ishtiaqSamdani/DriveSales_-intern.svg)](https://wakatime.com/badge/github/ishtiaqSamdani/DriveSales_-intern)
+
 <!---
 phanindra-max/phanindra-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
