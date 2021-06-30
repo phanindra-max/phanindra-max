@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science related projects
 - 📫 How to reach me: [Twitter](https://twitter.com/Phanind52024538)
 
-[![wakatime](https://wakatime.com/badge/github/ishtiaqSamdani/DriveSales_-intern.svg)](https://wakatime.com/badge/github/ishtiaqSamdani/DriveSales_-intern)
+<!-- [![wakatime](https://wakatime.com/badge/github/ishtiaqSamdani/DriveSales_-intern.svg)](https://wakatime.com/badge/github/ishtiaqSamdani/DriveSales_-intern) -->
 
 ![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max&show_icons=true&theme=nightowl)
 
