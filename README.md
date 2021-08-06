@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Data Science and Machine Learning
 - 🌱 I’m currently learning Data Analytics & Software Development
 - 💞️ I’m looking to collaborate on Real-World projects that can impact people's lives
-- 📫 How to reach me: [Twitter](https://twitter.com/Phanind52024538)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phanindra-kumar-kalaga/)
 
 <!-- [![wakatime](https://wakatime.com/badge/github/ishtiaqSamdani/DriveSales_-intern.svg)](https://wakatime.com/badge/github/ishtiaqSamdani/DriveSales_-intern) -->
 
