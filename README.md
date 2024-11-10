@@ -23,9 +23,7 @@
  
   <li> 🎓 I graduated from Sir C. R. Reddy College of Engineering, Department of CSE. </li>
 
-<li> 💻 I love writing code, Data Science, Web Development, and learning Music theory </li>
-
-<li> 👀 I’m interested in  </li>
+<li> 💻 I love writing code, Data Science, Web Development, and learning Music theory. </li>
 
 <li> 💞️ I’m looking to collaborate on Real-World projects that can create a lasting impact :) </li>
 
