@@ -27,7 +27,7 @@
 
 <li> 💞️ I’m looking to collaborate on Real-World projects that can create a lasting impact :) </li>
 
-<li> 📚 I’m currently reading "The Scout Mindset by Julia Galef" </li>
+<li> 📚 I’m currently reading - The Scout Mindset by Julia Galef </li>
 
 <li> 😄 Pronouns: he/him/his </li>
 
