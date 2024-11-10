@@ -6,9 +6,9 @@
 
 <!-- [![wakatime](https://wakatime.com/badge/github/ishtiaqSamdani/DriveSales_-intern.svg)](https://wakatime.com/badge/github/ishtiaqSamdani/DriveSales_-intern) -->
 
-<!-- ![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max&show_icons=true&theme=nightowl)
+ ![Phanindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanindra-max&show_icons=true&theme=nightowl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-max) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-max)
 
 <!-- ![Phanindra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phanindra_max) -->
 
