@@ -40,7 +40,6 @@
 
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=phanindra-max.phanindra-max"> -->
 <br>
-<br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
