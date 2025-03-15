@@ -21,7 +21,7 @@
   
   <li> 🔬 I'm studying for my Masters (Data Science) at George Washington University. </li>
  
-  <li> 🎓 I graduated from Sir C. R. Reddy College of Engineering, Department of CSE. </li>
+  <li> 🎓 I graduated with a Computer Science major from Sir C. R. Reddy College of Engineering. </li>
 
 <li> 💻 I love writing code, Data Science, Web Development, and learning Music theory. </li>
 
