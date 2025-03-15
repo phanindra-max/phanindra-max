@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  Hi, I'm Phanindra Kalaga, a Research Assistant & Software Engineer & Data Scientist from India 👈(ﾟヮﾟ👈)
+  Hi, I'm Phanindra Kalaga, a Graduate Researcher in Data Science with Software Engineering experience from India 👈(ﾟヮﾟ👈)
   <br>
   <ul>
   
