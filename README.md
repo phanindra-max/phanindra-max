@@ -10,6 +10,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phanindra-max/)
 [![HuggingFace Badge](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow?style=flat-square)](https://huggingface.co/Phanindra-max)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kspkumar)
+<img src="https://komarev.com/ghpvc/?username=phanindra-max&label=Profile%20views&color=blueviolet&style=flat" alt="manncodes" />
+
 
 </h5>
 <br>
