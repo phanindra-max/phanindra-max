@@ -73,11 +73,11 @@
 <p align=justify>
   <div align=center style="display: flex;justify-content: space-evenly;">
   <a href="https://github.com/phanindra-max/github-readme-stats" title="Go to Source">
-      <img align=center width=390 src="https://github-readme-stats.vercel.app/api?username=phanindra-max&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" />
+      <img align=center width=390 src="https://github-readme-stats.vercel.app/api?username=phanindra-max&show=reviews,prs_merged&show_icons=true&theme=dark" />
     </a>
 
    <a href="https://github.com/phanindra-max/github-readme-stats">
-      <img align=center height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-max&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_sborder=true&size_weight=0.5&count_weight=0.5" />
+      <img align=center height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanindra-max&hide=c%23,powershell,Mathematica,Ruby,HTML,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_sborder=true&size_weight=0.5&count_weight=0.5" />
     </a>
 </p>
 
