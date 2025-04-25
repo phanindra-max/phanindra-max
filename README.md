@@ -21,7 +21,7 @@
   <br>
   <ul>
   
-  <li> 🔬 I'm studying for my Masters (Data Science) at George Washington University. </li>
+  <li> 🔬 I'm pursuing my Masters (Data Science) at George Washington University. </li>
  
   <li> 🎓 I graduated with a Computer Science major from Sir C. R. Reddy College of Engineering. </li>
 
