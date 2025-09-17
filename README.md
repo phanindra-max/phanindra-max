@@ -65,6 +65,8 @@
 
 <br>
 
+<a href="https://gitroll.io/profile/uSCTYbOlFfIbN8yTE4sDY0DpkmX52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uSCTYbOlFfIbN8yTE4sDY0DpkmX52?theme=dark" alt="GitRoll Profile Badge"/></a>
+
 <!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
