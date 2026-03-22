@@ -17,15 +17,15 @@
 <br>
 
 <p align="center">
-  Hi, I'm Phanindra Kalaga, a Graduate Researcher in Data Science with Full-Stack Engineering experience  👈(ﾟヮﾟ👈)
+  Hi, I'm Satya (Phanindra) Kalaga 👈(ﾟヮﾟ👈)
   <br>
   <ul>
   
-<li> 🔬 I'm pursuing my Masters (Data Science) at George Washington University. </li>
+<li> 🔬 I have a Masters in Data Science from the George Washington University. </li>
 
-<li> 💞️ I love asking "How can I make it better?" out of nowhere :) </li>
+<li> 💞️ I love asking "How can I make it better?" all the time :) </li>
 
-<li> 💻 I write code for startups, non-profits, and open-source projects. </li>
+<li> 💻 I build tech-infrastructure for startups, non-profits, and open-source projects. </li>
 
 <li> 📚 I’m currently reading - The Scout Mindset by Julia Galef</li>
 
