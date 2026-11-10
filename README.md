@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  Hi, I'm Satya (Phanindra) Kalaga 👈(ﾟヮﾟ👈)
+  Hi, I'm Satya Phanindra Kalaga 👈(ﾟヮﾟ👈)
   <br>
   <ul>
   
